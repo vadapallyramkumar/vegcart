@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vegcart/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/vegcart/static/js/main.93423a1e.chunk.js",
+    "main.js.map": "/vegcart/static/js/main.93423a1e.chunk.js.map",
+    "runtime-main.js": "/vegcart/static/js/runtime-main.27aa2098.js",
+    "runtime-main.js.map": "/vegcart/static/js/runtime-main.27aa2098.js.map",
+    "static/js/2.a61e64e1.chunk.js": "/vegcart/static/js/2.a61e64e1.chunk.js",
+    "static/js/2.a61e64e1.chunk.js.map": "/vegcart/static/js/2.a61e64e1.chunk.js.map",
+    "static/js/3.367af295.chunk.js": "/vegcart/static/js/3.367af295.chunk.js",
+    "static/js/3.367af295.chunk.js.map": "/vegcart/static/js/3.367af295.chunk.js.map",
+    "index.html": "/vegcart/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/vegcart/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a61e64e1.chunk.js.LICENSE.txt": "/vegcart/static/js/2.a61e64e1.chunk.js.LICENSE.txt",
+    "static/media/500_F_215038281_6NBj4i1Etz91QR3855eL7WBjubLfSM2P.cdf39805.jpg": "/vegcart/static/media/500_F_215038281_6NBj4i1Etz91QR3855eL7WBjubLfSM2P.cdf39805.jpg",
+    "static/media/94911569-three-european-cucumbers-burpless-seedless-hothouse-gourmet-greenhouse-or-english-isolated-on-white-.eff9db6f.jpg": "/vegcart/static/media/94911569-three-european-cucumbers-burpless-seedless-hothouse-gourmet-greenhouse-or-english-isolated-on-white-.eff9db6f.jpg",
+    "static/media/images (1).61c1b254.jpeg": "/vegcart/static/media/images (1).61c1b254.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27aa2098.js",
+    "static/js/2.a61e64e1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.93423a1e.chunk.js"
+  ]
+}
